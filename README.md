@@ -7,4 +7,4 @@ In the (x, y) edge-removal process, we start with a maximally connected task-dep
 
 In the (x, y) edge-addition process, we start with an empty task-dependency graph and add edges uniformly at random as long as they do not cause the number of initial vertices to be less than x or the number of terminal vertices to be less than y. We halt either if we cannot add any more edges, or if there are exactly x initial vertices and y terminal vertices.
 
-We ran trials for both processes to develop conjectures which appear in Section 4 of the paper.
+We ran trials for both processes to develop the conjectures which appear in Section 4 of the paper.
